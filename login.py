@@ -8,3 +8,7 @@ g = 5
 wo shi laoda ,yiqie 听我的，按我说的做！
 
 我是老大，我的地盘我做主！
+
+
+def index():
+	return '你好'
